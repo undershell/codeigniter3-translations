@@ -36,5 +36,5 @@ $lang['form_validation_less_than']		= 'الحقل {field} يجب أن يحتوي
 $lang['form_validation_less_than_equal_to']	= 'الحقل {field} يجب أن يحتوي رقما أقل أو يساوي {param}.';
 $lang['form_validation_greater_than']		= 'الحقل {field} يجب أن يحتوي رقما أكبر من {param}.';
 $lang['form_validation_greater_than_equal_to']	= 'الحقل {field} يجب أن يحتوي رقما أكبر من أو يساوي {param}.';
-$lang['form_validation_error_message_not_set']	= ' الحقل{field}  غير قادر على الوصول إلى رسالة خطأ المقابلة ل اسم مجال عملك.';
+$lang['form_validation_error_message_not_set']	= 'الحقل {field} غير قادر على الوصول إلى رسالة خطأ مناسبة.';
 $lang['form_validation_in_list']		= 'الحقل {field} يجب أن يكون أحد: {param}.'; //FIXME
